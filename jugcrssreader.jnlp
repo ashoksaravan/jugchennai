@@ -11,7 +11,7 @@
   </resources>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="https://github.com/ashoksaravan/jucchennai/raw/master/jugcrssreader.jar" size="71995" download="eager" />
+    <jar href="https://github.com/ashoksaravan/jugchennai/raw/master/jugcrssreader.jar" size="71995" download="eager" />
   </resources>
 <security>
   <all-permissions/>
